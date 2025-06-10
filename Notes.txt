@@ -1,0 +1,23 @@
+How To Make Notes?
+
+1.NoteBook:- Make Self Note, Make Notes After 10 days..
+	Make topic Note And Blank 4 pages..
+	Do not Write Basic Things..
+	Write Logic that You forgot..
+	Write sudocode..
+	Write The Logic Before Coding 
+
+2. For Error:- stack OverFlow
+
+3. data types in java:-
+
+A.Primitive:- byte, short, char, Boolean,int, long, float,double.
+
+B.Non-Primitive:-string,Array,Class, Object,Interface.
+
+
+4. input :- next,nextLine,nextInt,nextFloat,nextDouble,nextBoolean,nextShort,nextLong.
+
+git remote add origin https://github.com/your-username/repo-name.git
+
+git commit -m "Merge branch 'main' of https://github.com/chirag297/DSA_WITH_JAVA"
