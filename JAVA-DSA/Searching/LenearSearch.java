@@ -1,3 +1,6 @@
+/* Linear Search Program 
+Author :- Chirag Solanki */
+
 import java.util.*;
 
 public class LenearSearch{
@@ -22,7 +25,7 @@ public class LenearSearch{
         System.out.println("Enter the Number You Want TO Search: ");
         value = sc.nextInt();
 
-        int index = Lenear(arr,value);
+        int index = Lenear(arr,value);  // Call The Function
 
         if(index==-1){
             System.out.println("Value Not Found In Array! ");
